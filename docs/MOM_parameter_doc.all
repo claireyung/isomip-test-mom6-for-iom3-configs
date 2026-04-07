@@ -2217,19 +2217,19 @@ USE_WAVES = False               !   [Boolean] default = False
                                 ! If true, enables surface wave modules.
 
 ! === module MOM_main (MOM_driver) ===
-DAYMAX = 10.0                   !   [days]
+DAYMAX = 730.0                  !   [days]
                                 ! The final time of the whole simulation, in units of TIMEUNIT seconds.  This
                                 ! also sets the potential end time of the present run segment if the end time is
                                 ! not set via ocean_solo_nml in input.nml.
 SINGLE_STEPPING_CALL = True     !   [Boolean] default = True
                                 ! If true, advance the state of MOM with a single step including both dynamics
                                 ! and thermodynamics.  If false the two phases are advanced with separate calls.
-RESTART_CONTROL = -1            ! default = 1
+RESTART_CONTROL = 1             ! default = 1
                                 ! An integer whose bits encode which restart files are written. Add 2 (bit 1)
                                 ! for a time-stamped file, and odd (bit 0) for a non-time-stamped file. A
                                 ! non-time-stamped restart file is saved at the end of the run segment for any
                                 ! non-negative value.
-RESTINT = 240.0                 !   [days] default = 0.0
+RESTINT = 0.0                   !   [days] default = 0.0
                                 ! The interval between saves of the restart file in units of TIMEUNIT.  Use 0
                                 ! (the default) to not save incremental restart files at all.
 WRITE_CPU_STEPS = 1000          ! default = 1000
