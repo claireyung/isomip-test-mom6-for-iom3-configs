@@ -1,0 +1,28 @@
+# change to your project with compute time available
+project: g40
+queue: normal
+walltime: 04:00:00
+jobname: mom6_isomip
+ncpus: 48
+jobfs: 10GB
+
+# change to a project you have access to
+shortpath: /scratch/x77
+
+model: mom6
+input:
+    - /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT
+exe: /scratch/x77/cy8964/mom6/setup-mom6-nci-executable/only_mom6_symmetric/MOM6 
+# /home/552/pc5520/MOM6_2/build/MOM6
+
+collate: false
+runlog: true
+storage:
+  gdata:
+    - ik11
+
+platform:
+  nodesize: 48
+
+mpi:
+  module: openmpi/4.1.2

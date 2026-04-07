@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/MOM6:
+  fullpath: /scratch/x77/cy8964/mom6/setup-mom6-nci-executable/only_mom6_symmetric/MOM6
+  hashes:
+    binhash: 9411d96949353e7178eff14e7b507464
+    md5: 079db5890ca049443c36829f22178bd1
