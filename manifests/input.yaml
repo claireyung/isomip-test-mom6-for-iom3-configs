@@ -31,6 +31,56 @@ work/INPUT/forcing_prescribed_mr_2.nc:
   hashes:
     binhash: dab61394e1a1b354cec1b7af558408f4
     md5: 49ca5e8d02a7948ff80ffc8919613a32
+work/INPUT/forcing_prescribed_mr_Ocean0C_NK18.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0C_NK18.nc
+  hashes:
+    binhash: 0d4c914fa4ff95554acc42baf03c668a
+    md5: 536ee6c5e2a25ef4b9d6f574e2604e6e
+work/INPUT/forcing_prescribed_mr_Ocean0C_NK18_GamT0.0042.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0C_NK18_GamT0.0042.nc
+  hashes:
+    binhash: 1e4fb4d5c6fd57680b233ebeb097e88c
+    md5: 4b839f5df5b66f719b5c9f69a1c4bfbe
+work/INPUT/forcing_prescribed_mr_Ocean0C_NK36.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0C_NK36.nc
+  hashes:
+    binhash: d65302930bf99ec704ca16602e7c2802
+    md5: 701e25e881e52a3c5bfe17f2debb4119
+work/INPUT/forcing_prescribed_mr_Ocean0C_NK36_GamT0.007.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0C_NK36_GamT0.007.nc
+  hashes:
+    binhash: ca3b3b77effa8ec72182da73d8444988
+    md5: a52a8bcf98d149255bd07129ca46ef4a
+work/INPUT/forcing_prescribed_mr_Ocean0C_NK72.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0C_NK72.nc
+  hashes:
+    binhash: 1895004e1f4603a28ed49350cc003fe4
+    md5: d63710f73611184316c0e7b3cf691345
+work/INPUT/forcing_prescribed_mr_Ocean0_NK18.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0_NK18.nc
+  hashes:
+    binhash: 3639522a41fbde83822c4a3be93eff74
+    md5: 285243d31f1ef63d74dade42d2b03d09
+work/INPUT/forcing_prescribed_mr_Ocean0_NK18_GamT0.0042.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0_NK18_GamT0.0042.nc
+  hashes:
+    binhash: 050b4679ac6e89ca3dcc780e422526eb
+    md5: 93b7d0d0ad2e1e65f776b948b10ee459
+work/INPUT/forcing_prescribed_mr_Ocean0_NK36.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0_NK36.nc
+  hashes:
+    binhash: 080dc463681791123c60abdda0a0a3f3
+    md5: 9a8bc9239dd8c9d1644524296bb446a0
+work/INPUT/forcing_prescribed_mr_Ocean0_NK36_GamT0.007.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0_NK36_GamT0.007.nc
+  hashes:
+    binhash: 90c0b79c4087fde402b081923fac2bed
+    md5: f8ca7b0d899266dea0b8053c1922c051
+work/INPUT/forcing_prescribed_mr_Ocean0_NK72.nc:
+  fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/forcing_prescribed_mr_Ocean0_NK72.nc
+  hashes:
+    binhash: a3562aa2e42f329f88ff4a0003af0d44
+    md5: ea7538183f70a3053d2984bf2d05fd8e
 work/INPUT/grid_spec.nc:
   fullpath: /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT/grid_spec.nc
   hashes:
