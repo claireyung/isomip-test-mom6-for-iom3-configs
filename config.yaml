@@ -11,7 +11,7 @@ shortpath: /scratch/x77
 
 model: mom6
 input:
-    - /g/data/x77/cy8964/idealised-mom6-control/isomip-prescribedmr/INPUT
+    - /g/data/x77/cy8964/idealised-mom6-control/Ocean0_NK36_for_iom3/INPUT
 exe: /scratch/x77/cy8964/mom6/setup-mom6-nci-executable/only_mom6_symmetric/MOM6 
 
 collate: false
