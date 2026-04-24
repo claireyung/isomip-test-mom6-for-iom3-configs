@@ -1,4 +1,4 @@
-#Idealised ISOMIP+ like config for iom3 examples
+# Idealised ISOMIP+ like config for iom3 examples
 
 Modified from the MOM6-examples rho case by using a symmetric ice thickness file and adding to the `MOM_override` https://github.com/NOAA-GFDL/MOM6-examples/tree/dev/gfdl/ocean_only/ISOMIP/rho
 
